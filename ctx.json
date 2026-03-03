@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/divitsheth/ctx/releases/download/v0.1.0/ctx_0.1.0_windows_amd64.zip",
+            "bin": [
+                "ctx.exe"
+            ],
+            "hash": "bc0b7515a59aca060c0ce2a36373599c2526223a28eee6b1e6799b8776ae22fd"
+        }
+    },
+    "homepage": "https://github.com/divitsheth/ctx",
+    "license": "MIT",
+    "description": "Project memory for AI agents"
+}
