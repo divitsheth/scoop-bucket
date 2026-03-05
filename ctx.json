@@ -1,12 +1,12 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/divitsheth/ctx-releases/releases/download/v0.1.1/ctx_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/divitsheth/ctx-releases/releases/download/v0.1.2/ctx_0.1.2_windows_amd64.zip",
             "bin": [
                 "ctx.exe"
             ],
-            "hash": "4e655c547dcf40e9f121e97432e3d3d3189f1bd6e9bbc2a789e1b04c395a0cf4"
+            "hash": "99af4024e2321cf0b9cc9c4484ea6d4d730dcd586429b91cf8212f80600d0d0f"
         }
     },
     "homepage": "https://github.com/divitsheth/ctx-releases",
